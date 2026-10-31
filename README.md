@@ -1,45 +1,31 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Zia ul Hussain — Software Engineer. Building useful things with code and AI." width="100%" />
-</p>
+<img src="assets/blue-hero.svg" width="100%" alt="Zia ul Hussain — Software Engineer. Building useful things with code and AI.">
 
-<p align="center">
-  <strong>AI engineering &nbsp; / &nbsp; Full-stack development &nbsp; / &nbsp; SaaS</strong>
-</p>
+<p align="center"><a href="https://github.com/hussain107485484?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-1555A0?style=for-the-badge&labelColor=0A162B&logo=github&logoColor=F0F7FF" alt="Explore my work"></a> <a href="https://github.com/hussain107485484/Zia-s-Portfolio"><img src="https://img.shields.io/badge/Portfolio-Repository-1555A0?style=for-the-badge&labelColor=0A162B" alt="Portfolio repository"></a></p>
 
-<p align="center">
-  I turn product ideas into working software with .NET, Angular, and AI.<br />
-  I care about understanding the problem, building with purpose, and checking what ships.
-</p>
+<img src="assets/blue-title-01.svg" width="100%" alt="About — Hello, I'm Zia.">
+<img src="assets/blue-about.svg" width="100%" alt="Software engineer working with C#, .NET, Angular, TypeScript, SQL, and AI-assisted workflows.">
 
----
+<img src="assets/blue-title-02.svg" width="100%" alt="Engineering focus">
 
-### What I work with
+**Useful products** — SaaS applications and business workflows that simplify everyday work.
 
-| AI & agent workflows | Full-stack engineering | Shipping software |
-| :--- | :--- | :--- |
-| Claude · Cursor · MCP | C# · .NET · ASP.NET Zero | Git · Azure DevOps |
-| Custom agents & reusable skills | Angular · TypeScript · ABP | CI/CD · API testing |
-| AI-assisted development & validation | Entity Framework · SQL | Code reviews · Automation |
+**AI-assisted engineering** — Agents, reusable skills, and MCP integrations for planning, implementation, and review.
 
-### What I build
+**Connected experiences** — Angular interfaces backed by .NET services, with attention to both sides.
 
-**01 / Products that solve real problems**  
-SaaS applications, business workflows, and tools that turn everyday friction into useful software.
+<img src="assets/blue-title-03.svg" width="100%" alt="Selected work">
 
-**02 / AI-assisted engineering workflows**  
-Agents, reusable skills, and MCP integrations that support planning, implementation, and review.
+- [Portfolio](https://github.com/hussain107485484/Zia-s-Portfolio) — My portfolio website repository.
+- [BlockRx](https://github.com/hussain107485484/BlockRx) · [BlockRx web](https://github.com/hussain107485484/BlockRx-web) — Explore the repositories.
+- **On my workbench:** agent coordination, content-planning tools, and better AI-assisted workflows.
 
-**03 / Connected full-stack experiences**  
-Clear Angular interfaces backed by .NET services, with attention to the details on both sides.
+<img src="assets/blue-title-04.svg" width="100%" alt="Toolkit">
+<img src="assets/blue-toolkit.svg" width="100%" alt="C#, TypeScript, .NET, Angular, SQL, Entity Framework, ASP.NET Zero, ABP, Claude, Cursor, MCP, Git and Azure DevOps.">
 
-### On my workbench
+<img src="assets/blue-title-05.svg" width="100%" alt="Connect">
 
-- Exploring how agents can coordinate tasks across projects and devices.
-- Designing a workspace for planning content across social and developer profiles.
-- Improving AI-assisted workflows through better context, validation, and token efficiency.
+<p align="center"><a href="https://github.com/hussain107485484">Find me on GitHub</a> · <a href="https://github.com/hussain107485484?tab=repositories">Explore my repositories</a></p>
 
----
+<img src="assets/blue-footer.svg" width="100%" alt="Zia ul Hussain — Understand. Build. Validate.">
 
-<p align="center">
-  <sub>Understand the problem. Build thoughtfully. Validate the result.</sub>
-</p>
+<sub>Visual design adapted from <a href="https://github.com/Sushmitadasari">Sushmita Dasari’s profile</a>, personalized in blue.</sub>
