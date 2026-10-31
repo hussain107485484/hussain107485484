@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Zia ul Hussain</title>
+  <desc id="desc">A neon developer workspace. Building useful things with code and AI.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111127"/><stop offset="1" stop-color="#071923"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#26334a" stroke-opacity=".4"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="20" fill="url(#grid)"/>
+  <path d="M0 379H1200" stroke="url(#accent)" stroke-width="4"/>
+  <circle cx="1090" cy="65" r="110" fill="#a78bfa" opacity=".05"/>
+  <circle cx="900" cy="330" r="150" fill="#22d3ee" opacity=".04"/>
+  <g font-family="Consolas, monospace">
+    <text x="64" y="78" fill="#67e8f9" font-size="15" letter-spacing="4">CODE / CREATE / ITERATE</text>
+    <text x="60" y="155" fill="#f1f5f9" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">Zia ul Hussain</text>
+    <text x="64" y="204" fill="#c4b5fd" font-size="22">Building useful things</text>
+    <text x="64" y="237" fill="#c4b5fd" font-size="22">with code and AI.<tspan fill="#67e8f9"> ▌<animate attributeName="opacity" values="1;0;1" dur="1.5s" repeatCount="indefinite"/></tspan></text>
+    <rect x="64" y="283" width="330" height="34" rx="17" fill="#182435" stroke="#34435b"/>
+    <text x="84" y="305" fill="#cbd5e1" font-size="13">.NET  /  ANGULAR  /  AI AGENTS</text>
+  </g>
+  <g transform="translate(720 72)">
+    <rect x="-7" y="-7" width="400" height="235" rx="17" fill="#a78bfa" opacity=".07"/>
+    <rect width="386" height="220" rx="12" fill="#0b1020" stroke="#455071"/>
+    <path d="M0 38H386" stroke="#29334c"/>
+    <circle cx="22" cy="20" r="5" fill="#fb7185"/><circle cx="40" cy="20" r="5" fill="#fbbf24"/><circle cx="58" cy="20" r="5" fill="#34d399"/>
+    <g font-family="Consolas, monospace" font-size="16">
+      <text x="26" y="76" fill="#64748b">// from idea to impact</text>
+      <text x="26" y="108" fill="#c4b5fd">const <tspan fill="#67e8f9">engineer</tspan> = {</text>
+      <text x="44" y="139" fill="#cbd5e1">focus: <tspan fill="#86efac">"useful software"</tspan>,</text>
+      <text x="44" y="170" fill="#cbd5e1">mindset: <tspan fill="#86efac">"keep building"</tspan></text>
+      <text x="26" y="201" fill="#c4b5fd">};</text>
+    </g>
+    <circle cx="359" cy="20" r="4" fill="#67e8f9"><animate attributeName="opacity" values="1;.25;1" dur="3s" repeatCount="indefinite"/></circle>
+    <path d="M105 242H281" stroke="#455071" stroke-width="5" stroke-linecap="round"/>
+    <path d="M193 222V241" stroke="#455071" stroke-width="5"/>
+  </g>
+</svg>
